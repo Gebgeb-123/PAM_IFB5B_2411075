@@ -6,10 +6,10 @@
 **Mata Kuliah:** Pemrograman Aplikasi Bergerak
 
 ## Judul Proyek
-[Tulis judul aplikasi yang mau dibuat]
+Katalog Menu Kafe / Kuliner
 
 ## Deskripsi
-[Tulis deskripsi singkat aplikasinya]
+Aplikasi yang menampilkan daftar makanan/minuman beserta foto, harga, dan deskripsi singkat
 
 ## Teknologi/Framework
 Flutter / Dart
